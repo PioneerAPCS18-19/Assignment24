@@ -1,4 +1,4 @@
-# Assignment 29
+# Assignment 24
 
 A school has 100 lockers and 100 students. All lockers are closed on the first day of school.
 
